@@ -1,8 +1,10 @@
 <img width="100%" src="https://cdna.artstation.com/p/assets/images/images/024/538/892/large/pixel-jeff-version2.jpg?1582740652"/>
 
-### Hello, I´am Yuri Mendes ✌
+## Hello, I´am Yuri Mendes ✌
 
-<p>📚 I'm studyng TypeScript and ReactJS</p>
+<p>📚 I'm currently studyng TypeScript and Styled Components</p>
+<p>🎮 I love playing games and listening musics</p>
+<p>💼 Looking for a job</p>
 
 <div>
   <a href="https://github.com/YuriMendess">
