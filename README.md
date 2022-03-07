@@ -2,7 +2,7 @@
 
 ## Hello, I´am Yuri Mendes ✌
 
-<p>📚 I'm currently studyng TypeScript, Sass and Styled Components</p>
+<p>📚 I'm currently studyng NodeJS and MongoDB</p>
 <p>🎮 I love playing games and listening musics</p>
 
 <div>
