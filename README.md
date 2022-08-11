@@ -49,11 +49,11 @@
 <h3 align="center">Working in:</h3>
 
 <p align="center">
-  <a href="https://github.com/seu-usuario/YuriMendess">
+  <a href="https://github.com/YuriMendess">
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=YuriMendess&repo=my-portfolio&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=YuriMendess&repo=pokedex&theme=tokyonight">
     </img>
   </a>
 </p>
