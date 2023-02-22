@@ -14,10 +14,6 @@
   <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"/>
 </p>
 
-
-
-
-
 <p align="center">
   <a href="https://github.com/YuriMendess">
     <img
@@ -53,7 +49,7 @@
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=YuriMendess&repo=pokedex&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=YuriMendess&repo=FlashCardsAPI&theme=tokyonight">
     </img>
   </a>
 </p>
